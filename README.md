@@ -45,7 +45,7 @@ README.md                 # Project documentation
 
 Clone the repository:
 
-git clone https://github.com/your-username/atm-management-system.git
+git clone [https://github.com/your-username/atm-management-system.git](https://github.com/malihae/ATM-Management-System-C-)
 
 Navigate to the project directory:
 
